@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1918010_Tugas6</string>
+    <string-array name="Lokasi_Daerah">
+        <item>Ursus</item>
+        <item>Terra</item>
+        <item>Victoria</item>
+        <item>Babel</item>
+        <item>Stonenge</item>
+    </string-array>
+
+</resources>
